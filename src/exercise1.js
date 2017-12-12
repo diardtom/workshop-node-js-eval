@@ -1,3 +1,6 @@
 exports.run = function(input) {
-  console.log("Exercise #1");
+  console.log("Exercisee #1");
+
+
+return input.length;
 };
